@@ -2,12 +2,13 @@
 
 * [TIL](README.md)
 
-## JPA
+## TIL
 
-* [README.md](jpa/chapter-1.md)
+* [README.md](til/chapter-1.md)
 
 ---
 
-* [chapter 1](chapter-1.md)
-* [chapter 2](chapter-2.md)
+* [JPA](jpa-1/README.md)
+  * [chapter 1](jpa-1/chapter-1.md)
+  * [chapter 2](jpa-1/chapter-2.md)
 
