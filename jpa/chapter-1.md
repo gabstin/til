@@ -6,5 +6,9 @@
 * H2 Database을 이용합니다.
 * Code는  gitbook에 업로드한 내용을 표시합니다.
 
+## gitbook 주소
+
+[https://gabstin.gitbook.io/til/jpa](https://gabstin.gitbook.io/til/jpa)
+
 
 
