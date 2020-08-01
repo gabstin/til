@@ -1,10 +1,6 @@
 # TIL
 
-this is from gitbook 첫번
+{% hint style="info" %}
+첫번째 Charter 제목을 변경하고 내용을 작성하세요.
+{% endhint %}
 
-
-
-this is from gitbook 두번째 
-
-
-this is from Github 세번째

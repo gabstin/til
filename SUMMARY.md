@@ -6,3 +6,7 @@
 
 * [chapter 1](jpa/chapter-1.md)
 
+---
+
+* [chapter 2](chapter-2.md)
+
