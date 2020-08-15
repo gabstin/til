@@ -1,3 +1,13 @@
+---
+layout: post  
+title: "JPA 엔티티 관계 설정하기"  
+subtitle: "[Tips]"  
+date: 2020-03-02 17:00  
+background:   
+tag: [Tips, Github io, Notion]
+---
+
+
 # JPA 엔티티 관계 설정하기
 
 목차 
