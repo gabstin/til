@@ -6,6 +6,7 @@ EntityManager는 영속성 컨텍스트에도 엔티티 정보를 저장하고
 이후 실제 DB에 저장한다.
 등록, 조회, 수정을 통해서 어떻게 돌아가는지 살펴보자.
 
+
 ![img01][img01]
 
 [img01]: https://lh5.googleusercontent.com/ihN02vy_jk6VLZ4qpECxrkptqjTWd4szTjNbTOpCgxHT1Pz36Cmbu9rwosnOsIzGK4JEXXLVeBDiQNcMF5aUJ5h-zbRH26L46cS7vft9aGn1IbF7Fon3qQIhAj0LX86FSitFldgW
